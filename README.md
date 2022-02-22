@@ -1,4 +1,4 @@
-# tec-sand-table
+# tec-Sand-Table
 sand table controlled by tec1
 
 ## ref
