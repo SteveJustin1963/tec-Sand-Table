@@ -13,5 +13,8 @@ A sand table is a kinetic sculpture that uses a metal ball to silently create an
 - http://atelier-automatik.com/sandtable.html
 - https://sisyphus-industries.com/
 - https://hackaday.com/2021/10/31/building-a-kinetic-sand-art-table/
+- http://alwaystinkering.com/2020/01/14/diy-kinetic-sand-art-table/
+- https://robdobson.com/2018/08/a-new-sandbot/
+- https://wonoq.com/products/sandart%E2%84%A2-moving-sand-art-decor?variant=42291235684515
 - 
 - 
